@@ -49,10 +49,9 @@ I love crafting clean architectures, solving complex problems, and turning ideas
 - High‑performance eCommerce builds  
 - Mobile app development with React Native & Flutter
 
-## 🌐 Connect With Me
-- **[Microsoft Teams](https://teams.live.com/l/invite/FEA1mOzV1jd_Ab56gI)**
-- **[LinkedIn](https://www.linkedin.com/in/rkdevox/)** 
-- **[Upwork](https://www.upwork.com/freelancers/~01f7f8d49ccedef48c)**
+## 🌐 Let’s Connect
+- Open to freelance, contract, and long-term collaborations  
+- Reach out via **[Microsoft Teams](https://teams.live.com/l/invite/FEA1mOzV1jd_Ab56gI)**, **[LinkedIn](https://www.linkedin.com/in/rkdevox/)** or **[Upwork](https://www.upwork.com/freelancers/~01f7f8d49ccedef48c)**
 
 <hr/>
 ⭐ If you find my work helpful, feel free to star my repositories.
