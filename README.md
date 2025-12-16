@@ -1,7 +1,7 @@
-# Hi, I'm Rahul K 👋  
-### Senior Full Stack Web Developer | WordPress Specialist | PHP • React • Laravel • Shopify • Mobile Apps
+# Senior Full Stack Web Developer 👋  
+###  WordPress • PHP • CodeIgniter • Laravel • Shopify •  React • UI/UX → HTML/CSS
 
-I’m a Senior Full Stack Developer with 10+ years of experience building high‑performance websites, web applications, and eCommerce platforms. I specialize in **WordPress, PHP, React, Shopify, Laravel, and mobile app development**, delivering scalable, secure, and optimized digital solutions.
+I’m a Senior Full Stack Developer with 10+ years of experience building high‑performance websites, web applications, and eCommerce platforms. I specialize in **WordPress, PHP, CodeIgniter, Laravel, Shopify, React, UI/UX → HTML/CSS and mobile app development**, delivering scalable, secure, and optimized digital solutions.
 
 I love crafting clean architectures, solving complex problems, and turning ideas into reliable products — from custom plugins to full‑stack apps and cross‑platform mobile experiences.
 
