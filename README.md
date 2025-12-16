@@ -1,6 +1,6 @@
 ###  Hi there! 👋  
 
-# Senior Full Stack Web Developer
+# Full Stack Web Developer & Designer
 
 ###  WordPress • PHP • CodeIgniter • Laravel • Shopify •  React • UI/UX → HTML/CSS
 
