@@ -8,6 +8,14 @@ I’m a Senior Full Stack Developer with 10+ years of experience building high�
 
 I love crafting clean architectures, solving complex problems, and turning ideas into reliable products — from custom plugins to full‑stack apps and cross‑platform mobile experiences.
 
+## 🧩 What I Build
+- Custom WordPress websites, plugins & themes  
+- Full‑stack web applications (PHP, Laravel, React)  
+- Shopify & WooCommerce stores  
+- API integrations (Stripe, PayPal, CRM, Marketing Tools)  
+- Mobile apps using React Native & Flutter  
+- Speed, security & SEO‑optimized websites  
+
 ## 🚀 Tech Stack & Expertise
 
 ### **💻 Full‑Stack Development**
@@ -34,14 +42,6 @@ I love crafting clean architectures, solving complex problems, and turning ideas
 - VS Code, CI/CD Pipelines  
 - JIRA, Trello, Asana, Slack  
 - Clean Code, Scalable Architecture, Long‑Term Maintainability 
-
-## 🧩 What I Build
-- Custom WordPress websites, plugins & themes  
-- Full‑stack web applications (PHP, Laravel, React)  
-- Shopify & WooCommerce stores  
-- API integrations (Stripe, PayPal, CRM, Marketing Tools)  
-- Mobile apps using React Native & Flutter  
-- Speed, security & SEO‑optimized websites  
 
 ## 📈 Current Focus
 - Advanced WordPress plugin engineering  
