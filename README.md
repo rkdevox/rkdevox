@@ -1,4 +1,7 @@
-# Senior Full Stack Web Developer 👋  
+###  Hi there! 👋  
+
+# Senior Full Stack Web Developer
+
 ###  WordPress • PHP • CodeIgniter • Laravel • Shopify •  React • UI/UX → HTML/CSS
 
 I’m a Senior Full Stack Developer with 10+ years of experience building high‑performance websites, web applications, and eCommerce platforms. I specialize in **WordPress, PHP, CodeIgniter, Laravel, Shopify, React, UI/UX → HTML/CSS and mobile app development**, delivering scalable, secure, and optimized digital solutions.
